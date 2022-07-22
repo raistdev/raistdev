@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raistdev (Juanma Beltrán Osa)
-- 👀 I’m interested in gnu/linux and python
-- 🌱 I’m currently learning odoo development and CI/CD stuff
+- 👀 I’m interested in gnu/linux, python and cybersecurity
+- 🌱 I’m currently learning cybersecurity and CI/CD stuff
 - 💞️ I’m looking to collaborate on (open to ideas) 
 - 📫 How to reach me https://www.linkedin.com/in/juanma-beltrán-osa/
 
